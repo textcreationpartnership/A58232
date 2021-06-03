@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for a new parliament delivered in the Lords House, Novemb. 20th 1675. With several other arguments for dissolving this parliament and calling frequent and new parliaments</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58232</idno><idno type="EEBO-CITATION">99829980</idno>
+  <idno type="VID">34427</idno>
+  <idno type="EEBO-PROQUEST">2240873582</idno>
+  
+            <idno type="STC">Wing R485A</idno>
+            <idno type="STC">ESTC R218379</idno>
+            <idno type="PROQUEST">99829980</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829980e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34427)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2015:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for a new parliament delivered in the Lords House, Novemb. 20th 1675. With several other arguments for dissolving this parliament and calling frequent and new parliaments</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3: Reasons for a new parliament, &amp;c.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original at the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34427:1"/>
+            <p>REASONS FOR A New Parliament; Delivered in the LORDS HOUSE, <hi>Novemb.</hi> 20<seg rend="sup">th,</seg> 1675.</p>
+            <p>With SEVERAL Other ARGUMENTS FOR DISSOLVING <hi>This Parliament</hi> AND CALLING Frequent and NEW PARLIAMENTS</p>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34427:2"/>
+            <pb n="3" facs="tcp:34427:2"/>
+            <head>REASONS FOR A New Parliament, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT according to the Constitution of the Govern<g ref="char:EOLhyphen"/>ment, and the Antient Laws and Statutes of this Realm, there should be frequent <hi>Parliaments;</hi> and that the Antient Practice of this Nation hath been accordingly.</p>
+            <p>That, Besides the Right of the People by the Com<g ref="char:EOLhyphen"/>mon Law, There are two Statutes now in force <hi>(viz.)</hi> 4th. <hi>Edw.</hi> 3.10. And the 36th. <hi>Edw.</hi> 3 14. The Substance of which are; <hi>That for the Maintenance of the Rights of the Kingdom, and for Remedy of Mischiefs and Grievances that daly happen, A</hi> Parliament <hi>shall be held every Year once, or more oftner if need be.</hi>
+            </p>
+            <p>And these Lawes are to be understood of a NEW <hi>Parliament,</hi> every Year, and not of calling the Old; as is most manifest by the practice not onely of all the Ages before, but of some hundreds of yea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s after these Lawes were made; <hi>Prorogations</hi> or long <hi>Adjournments</hi> being things never h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard of until latter years. And it is most unreasonable that any particular number of Men, should for more then One year, much more for <hi>Fifteen</hi> yeares together ingrosse so great a Trust of the People as to be their Re<g ref="char:EOLhyphen"/>presentative in the House of Commons; and that all other the Gent<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and Members of Corporations of the same degree and quality with them, sh uld be excluded: Neither is it agreable to the nature of a Representative to be continued for so long a time, so that those that Chose them, are not allowed frequent oppertunities of changing the hands in which they are forced to put so great a Trust, the mutuall correspondence and interest of those who Chose, and are Chosen, admitting of great variation in l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngth of time.</p>
+            <p>How many may there be in future <hi>Parliaments,</hi> if continued as long as this, that may be <hi>Protestants</hi> when they are Chosen, and yet may come in so many years justly to be suspected to have <hi>Changed their Re<g ref="char:EOLhyphen"/>ligon.</hi> Nay, how many are there in this present <hi>Parlaiment</hi> who were chosen by the People, when they were of the very same Interest with them, but in l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngth of time are become Officers in the Court, and about the Revenves? And therefore they themselves cannot say, that they are equally free to
+<pb n="4" facs="tcp:34427:3"/> Act for those that Chose them, as they were before, nor are they of the same Interest as when they were Chosen, for now they gain and have ad<g ref="char:EOLhyphen"/>vantage by the Peoples Payments; and if they should say they are the same men they were, we can call their fellow Members that have set with the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to witness whether the Prove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b be not true, <hi>Honores mutant Mores?</hi> Whether <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey have t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e same Opinions, and the same Freedom they had before? Nay, may it not be said without offence, that even in this House of Commons there are not a few, who when they were Chosen were looked upon as men of Estates, and are either since grown, or discovered to be of that indigent condition as they are much <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter to receive the Publick Maintenance than give the Publick Money?</p>
+            <p>The Representatives of the Freeholders, Citizens, or principal Bur<g ref="char:EOLhyphen"/>roughs and Corporations of <hi>England,</hi> by the Old Law, were to be New Chosen once a Year; so that they perfectly g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve the sence of those that Chose them, and were the same thing as if those we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e present that Chose them, they so newly coming from them, and so quickly returning to give an account of their Fidelity, under the penalty of Shame, and no further Trust.</p>
+            <p>The House of Commons thus Yearly New Chosen, affords the Sence, the Mind, the Information, the Complaint, the Grievances, the Desires of <hi>All</hi> the <hi>People</hi> for whom they serve, through the whole Nation; and the People are thereby secure, no Law can be made or Moneys given, but what themselves, though at home, fully consent and agree to.</p>
+            <p>But on the contrary, the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng continuance of any such as are intrusted for others, especially of such as have so great a Power ove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Purse of the Nation, makes them liable to be Corrupted, and won from the Pub<g ref="char:EOLhyphen"/>lick Interest, and necessarily produces <hi>Cabals</hi> and Parties, and the Carry<g ref="char:EOLhyphen"/>ing on of Private Interests, and Court Factions, rather than the Publick Good, or the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue Interest of the King or Kingdom: And takes away the great Security the Nation hath: That if it should happen, that the Spiritual Lords, because of their sole Dependance on the Crown, the Po<g ref="char:EOLhyphen"/>pish Lords being under the pressure of so severe Laws, together with the Court Lords, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Great Officers should in any future <hi>Parliament</hi> make up a great number of the House of Lords, and should pass things very prejudicial to the Publick, yet all should prove ineffectual, and the Nation remain Safe in a House or Commons, <hi>Lately Chosen,</hi> that have not had time to learn new <hi>Sentiments,</hi> or put off their <hi>Old Principles</hi> at a good <hi>Market.</hi>
+            </p>
+            <p>Moreover it is from the Long Continuance of <hi>Parliaments</hi> that Gentle<g ref="char:EOLhyphen"/>men ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> content to spend such great Sums of Money to be Chosen, as <hi>Fif<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n hundred,</hi> or <hi>Two thousand Pounds;</hi> whenas in former times, when <hi>Parliaments</hi> were short and frequent, the Members constantly received
+<pb n="5" facs="tcp:34427:3"/> their Wages both of their Countys, Citys and Burroughs. Besides all these, the very Priviledge of the Members, and those they Protect in a <hi>Parliament</hi> of fifteen years duration, is a Pressure that the Nation cannot well support it self under; So many hundred Suits of Law stop't, so vast Sums of Money withheld from the Right Owners, so great quantity of Land unjustly Possessed; and in many Cases, the length of time securing the Possession, and creating a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itle. But in <hi>Parliaments Annually Chosen,</hi> such as did oppress or injure others, could not expect a second <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears <hi>Choice</hi>
+            </p>
+            <p>How can this pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt <hi>House of Commons</hi> be the True Representative of those <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey Serve for, since the People and they are of <hi>Different Minds?</hi> and if they wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Choose again, they would Choose other Men of their own <hi>Sentiments;</hi> And it must be confest, Whatever is not <hi>Natural</hi> is by <hi>Force,</hi> and must be Maintain'd by <hi>Force.</hi> A <hi>Standing Parliament</hi> and a <hi>Sanding Army</hi> are like those Twins that have their Lower Parts United, and are Divided only above the Navel, they are Born together, and can<g ref="char:EOLhyphen"/>not long Out-live each other.</p>
+            <p>To conclude this Debate, The <hi>Continuance of This present Parliament any Longer, is Ʋnpracticable; the unhappy Breaches fallen out betwixt the Two Houses, is as unlikely to be Repaired by</hi> This, <hi>as they are to be Renew<g ref="char:EOLhyphen"/>ed by a</hi> New Parliament.</p>
+            <p>These are not the Conceptions of any <hi>Private Man's Brain,</hi> But the Sense and Judgment of the far greater part of the <hi>Temporal Lords,</hi> who by virtue of their Peerage, are a Great Part of the <hi>Government,</hi> and are to be <hi>Conservators</hi> of the <hi>Rights</hi> of the <hi>Kingdom.</hi>
+            </p>
+            <p>And it is to to be Noted, That upon the Great Question, <hi>Whether or no, the House of Lords should Petition his Majesty to Dissolve this present</hi> Parliament, <hi>and Call a</hi> New One? There were <hi>Forty One</hi> Temporal Lords with <hi>six Proxies</hi> for the Address, and there was not above <hi>five</hi> Lords and <hi>sixteen Proxies</hi> against it, except the Bishops and such Lords as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old Offices and Places, or receive Pentions from the King. And, Whether those Lords who are contented w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th their own Estates, and do not seek to Enlarge them by Court Offices, Or the Bishops and those o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Lords, that have their immediate Dependance upon the Crown, Are likeliest to give the Best and most Impartial Advice, for the Good, Safety and Prospe<g ref="char:EOLhyphen"/>rity of the <hi>King</hi> and <hi>Kingdom,?</hi> L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t all Rational Men Judge. Neither was this the Sense of these Lords only, but the known Judgement and Desire of that Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the House of Commons, who (like <hi>Worthy Pa<g ref="char:EOLhyphen"/>triots</hi>) have stood for the RIGHTS of their Country, in despight of all Temptation or Opposition whatever,</p>
+            <p>And to his Eternal Honour, Sir <hi>H G.</hi> did not only express his own dislike of the long sitting of this <hi>Parliament,</hi> but al o did lay in his Coun<g ref="char:EOLhyphen"/>trys Claim to their Right of having <hi>Parliaments</hi> Annually Chosen, open<g ref="char:EOLhyphen"/>ly
+<pb n="6" facs="tcp:34427:4"/> Declaring in the <hi>House of Commons,</hi> That it was as much the Right of the People of <hi>England,</hi> to have frequent and New <hi>Parliaments,</hi> as to have any at a I And that a <hi>Standing Parliament</hi> and a <hi>Standing Army</hi> were a like dangerous to <hi>England.</hi>
+            </p>
+            <p>These unanswerable Reasons being o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fered in Both <hi>Houses of Parlia<g ref="char:EOLhyphen"/>ment,</hi> was certa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly that which first ga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the People courage freely to Discourse and Examine this Great M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. But no sooner did they consider thereof, but they were forc't to close with it as an undeny<g ref="char:EOLhyphen"/>able Truth, and the only <hi>One thing Necessary.</hi> And now almost every Corner of <hi>England</hi> is full of Dis ourse and Desire of, and Prayer f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r a <hi>New Parliament,</hi> as the only probable means to preserve the Kings Person, and the Protestant Religion from the Designs of the Papist, and to Re<g ref="char:EOLhyphen"/>store the almost lost Trade, Riches, Honour a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Strength of this Kingdom.</p>
+            <p>And although these Reasons offered by so many Great and Worthy <hi>Patriots</hi> are wholly unanswerable, Yet <hi>the Loss of Trade, D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss, Pover<g ref="char:EOLhyphen"/>ty, Ruine, Contempt and Dishonour,</hi> that every day comes more and more upon this Kingdom, hath furnished the People w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Arg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments of ano<g ref="char:EOLhyphen"/>ther kind, and which seem to have great wait in them. <hi>They say,</hi> That without a <hi>New Parliament Trade</hi> is lost, and consequ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntly the <hi>Navigati<g ref="char:EOLhyphen"/>on,</hi> and with it, both h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Riches and S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rength of <hi>England,</hi> and the Trade of this K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngdom hath daily im<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aired fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 13. or 14. Years toge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her, under the Conduct of this <hi>Parliament,</hi> and that lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of a great part of it doth a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ise from some Acts of this <hi>Parliament.</hi> As for instan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, the lo s of the <hi>Irish, Scotch,</hi> and <hi>Norway</hi> Trad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, hath been occasioned by some Acts of this <hi>Parliament,</hi> and c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n never be regain'd without the Repeal of those Acts, and that this <hi>Parliament</hi> is not so likely to Repeal their own Acts as a <hi>New Parliament</hi> is.</p>
+            <p>And further th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> People say, It is the Design of the <hi>Papist</hi> (in order to the bringing in of theiy Arbitrary Religion and Government) to Im<g ref="char:EOLhyphen"/>poverish this Kingdom and ruine the Trade by <hi>Burning</hi> the City, Towns, Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roughs, and Trading Corpora<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions thereof; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ept there be some speedy and eff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctual Course taken to bring the mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chief these wicked Men have Designd against our Religion and Nation, upon their own He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, it will very much endanger the whole: And they cannot so well expect that this should be done by This <hi>Parliament,</hi> as by a <hi>New Parliament,</hi> Because there was so very much proved before This <hi>Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lia<g ref="char:EOLhyphen"/>ment,</hi> concerning the <hi>[Fireing of London]</hi> and yet so lit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le done in it And they do conce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve, That if the very Bottom of that <hi>Hellish Plot</hi> had been Se<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rely looked into, and All Persons <hi>whatever</hi> concerned therein brought unto Condign Punishment, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se <hi>later Fires</hi> had been wholly prevented, And they further say, That although this present <hi>Parliament</hi> (to their Eternal Honour) have greatly exprest their dislike of the <hi>Popish Religion,</hi>
+               <pb n="7" facs="tcp:34427:4"/> yet notwithstanding it hath for several years very much increased in this Kingdom; And his Royal Highness, who is the presumptive Heir to the Crown did Marry one of that <hi>Religion,</hi> and thereby cause a great number of Priests and Jesuites to come over, and remain here; And, to the <hi>amaze<g ref="char:EOLhyphen"/>ment</hi> of the whole Nation, He hath since <hi>Left the Communion of the Church of England,</hi> And the <hi>Papists</hi> in most parts of <hi>England</hi> are mor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than ordinarily <hi>Armed</hi> (who by Law ought to have no <hi>Armes</hi> at all) and are grown to that Insolency, that they every day pervert his Majesties Subjects, and Print Books in utter defiance of the Established <hi>Religion.</hi> They have lately Printed their <hi>Mas Book</hi> in <hi>English,</hi> with their Crafty <hi>Annota<g ref="char:EOLhyphen"/>tions</hi> upon it; and, as they say, <hi>Permissu Superiorum.</hi> So that except there be a <hi>New Parliament,</hi> speedily Called to unravel all their <hi>Policies</hi> and in time take care to preserve the <hi>Protestant Religion,</hi> to us and our Posterity, they seem to think themselves secure of all when ever the King Dies, And therefore the P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople desire a <hi>New Parliament</hi> to prevent that <hi>Deluge of Popery,</hi> which hitherto hath come every day more and more upon us, notwithstanding all the endeavours of this <hi>Parl.</hi> to the contrary.</p>
+            <p>And further, Because this <hi>Parliament</hi> cannot meet till the 14 <hi>February,</hi> and a <hi>New One</hi> may meet in 40 <hi>Dayes,</hi> and this a matter of so great im<g ref="char:EOLhyphen"/>port, that there is not one Moment of Time to be lost; For all the Safety or Our <hi>Religion</hi> depends wholly upon the Kings Life, and how uncertain the Life of any King, or Prince, or Person whatsoever is, whose Death would advantage the <hi>Popish Interest,</hi> the Experience of all Ages shews us.</p>
+            <p>Moreover the People say, There seems an absolute Necessity of a <hi>New Parliament,</hi> because this <hi>Parliam</hi> by the ill Advice of some Persons hath been <hi>Prorogued</hi> for more than a year, whereas by the Laws and very Con<g ref="char:EOLhyphen"/>stitutions of this King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om (as is already said) <hi>There ought to be a Parli<g ref="char:EOLhyphen"/>ament every Year.</hi> And therefore it is the Opinion of many, very Learn<g ref="char:EOLhyphen"/>ed in the Law, <hi>That this Parliament being Prorogued beyond a year, is na<g ref="char:EOLhyphen"/>turally Dissolved, and ceases to be any longer a Parliament, and that the Peo<g ref="char:EOLhyphen"/>ple of</hi> England <hi>owe no Obligation to any Laws they shall make, nor are to be H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld by them: Nay, That the Parliament Men themselves may be Im<g ref="char:EOLhyphen"/>pleaded and Arraigned, and stand Responsible for any Act that they shall do, as those that have Ʋsurped the exercise of the Leislative Power of</hi> England, <hi>when their Authority for their Legislation ceased.</hi> And how pernitious this may prove, even to his Majesty as well as the People, especially if his Majesties Necessities shall Call for a Supply, may easily be immagined: For few will pay it without a Distress, and who will Distrain. when the Authority that Orders the Distress is Defect ve? If you bring it to an Issue, the Juries will not think themselves obliged to ruine thtir Neigh<g ref="char:EOLhyphen"/>bours and themselves, for the sake of a <hi>Parliament</hi> that by corrupt and il<g ref="char:EOLhyphen"/>legal ways. Impose themselves upon them.</p>
+            <pb n="8" facs="tcp:34427:5"/>
+            <p>Besides all this, the People say, That if we are without a <hi>Parliament</hi> till <hi>February,</hi> the whole Kingdom is in danger to be Lost to the <hi>French.</hi> And this is an Argument of which every M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n is sensible, for although some Men are so fool<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh as to be content to part with their <hi>Religion,</hi> and others with their <hi>Liberty,</hi> yet none are so vilely wretched as to be content to have their <hi>Religion, Liberty,</hi> and <hi>Estate</hi> too, wholly swallowed up by a <hi>French Conquest:</hi> And yet this is too like to be the Case, except a <hi>Par<g ref="char:EOLhyphen"/>liament</hi> be Called before <hi>February,</hi> which is the soonest time this <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> can meet as a <hi>Parliament.</hi> In former time the <hi>English</hi> did not think themselves safe except they were stronger at Sea than any other their Neighbours. And so carefull was Queen <hi>Elizabeth,</hi> to prevent the <hi>French</hi> from growing strong at Sea, as she would not suffer them to build any <hi>Men of War</hi> at all; Judging nothing could secure <hi>England</hi> from a second <hi>French Conquest,</hi> if once <hi>France</hi> were Powerfull at Sea; But our Modern Policy hath been so quite contrary, hat we have stood still while the <hi>French</hi> King is like to be Master of <hi>Sicily</hi> and <hi>Flanders,</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d is already so powerful as he thinks himself Master at Sea, as appears by the unparalleld Injuries the <hi>French</hi> offer every day to our <hi>English Merchants,</hi> and that oftentimes in his Majesties own <hi>Ports;</hi> The <hi>French</hi> having in time of Peace taken and carried into <hi>France,</hi> n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar 300 <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>glish Merchant Ships,</hi> and condemned many of them, and so long detein<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the rest, putting them to so great charge as hath been an intollerable loss to our <hi>Merchants,</hi> and dishonour to the Nation. The <hi>French</hi> King ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h now 167 <hi>Ships of War,</hi> and is now build<g ref="char:EOLhyphen"/>ing 40 more against n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt Summer, while the Navy of poor <hi>England</hi> is in so Poor, Rotten Ruinous, and Despicable a Condition, as cannot be na<g ref="char:EOLhyphen"/>med without d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shonour to the Na ion. So tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>French</hi> seem to want nothing but lei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure to make themselves <hi>Master</hi> of all <hi>England.</hi> And should the <hi>French</hi> King either make a Peace, or prove Victorious, it is much to be fe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, it would be too late for a <hi>Parliament</hi> to save us.</p>
+            <p>This being the Case, we will Appeal to all <hi>Men</hi> that have <hi>any Love to God the Protestant Religion, their King or Country, the Laws, Liberties, Estate, Honour or Safety of ENGLAND;</hi> Whether it be not the indispen<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Duty of every <hi>English Man,</hi> from the greatest Peer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the meanest Commoner, (by Petition, or any other lawful means what<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oever) to en<g ref="char:EOLhyphen"/>deavour to move his <hi>Majesty</hi> immediately to Call a <hi>New Parliament?</hi> And, Whether it be possible to imagine that any <hi>English Man</hi> can oppose this, except such, whose sottish negligence never gives them leave to exa<g ref="char:EOLhyphen"/>mine any thing aright; or such whose Pensions from <hi>France</hi> or <hi>Rome</hi> have wholly blinded their Understandings; or such who mind nothing so much as heaping up Vast Estates and Honours to themselves and their Relations though Purchased <hi>with the Ruine of their Country;</hi> Or such, whose al<g ref="char:EOLhyphen"/>ready <hi>Extrajudicial Practises,</hi> make them Dread the very thought of a NEW PARLIAMENT?</p>
+         </div>
+      </body>
+   </text>
+</TEI>
